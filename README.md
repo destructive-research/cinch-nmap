@@ -28,3 +28,10 @@ Port scan a host
 
 ## Options
 None.
+
+## TODO
+
+- put in some checks
+- add scan options
+- try to get rid of the xml tmp file
+
