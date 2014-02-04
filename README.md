@@ -1,5 +1,7 @@
 # Nmap IRC front end  plugin
 
+[![Gem Version](https://badge.fury.io/rb/cinch-nmap.png)](http://badge.fury.io/rb/cinch-nmap)
+
 This plugin uses nmap port scanner to check on open/closed ports
 on target hosts.
 
