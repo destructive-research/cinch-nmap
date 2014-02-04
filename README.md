@@ -23,8 +23,8 @@ Then load it in your bot:
     bot.start
 
 ## Commands
-### !nmap  <ip>
-Check if a website is up or down.
+### !nmap  < ip >
+Port scan a host
 
 ## Options
 None.

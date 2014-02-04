@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'cinch-nmap'
-  s.version = '0.1'
+  s.version = '0.2.1'
   s.summary = 'IRC BOT Front end to nmap'
   s.description = 'Run site port scans from IRC'
   s.authors = ['Christian Fernandez']
