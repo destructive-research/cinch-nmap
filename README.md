@@ -1,4 +1,4 @@
-# Down for everyone or just me? plugin
+# Nmap IRC front end  plugin
 
 This plugin uses nmap port scanner to check on open/closed ports
 on target hosts.
