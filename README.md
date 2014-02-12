@@ -18,7 +18,7 @@ Then load it in your bot:
     bot = Cinch::Bot.new do
       configure do |c|
         # add all required options here
-        c.plugins.plugins = [Cinch::Plugins::Nmap] # optionally add more plugins
+        c.plugins.plugins = [Cinch::Plugins::ScanNmap] # optionally add more plugins, remember is ScanNmap
       end
     end
 

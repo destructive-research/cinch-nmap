@@ -3,7 +3,7 @@ require 'nmap/program'
 require 'nmap/xml'
 
 module Cinch::Plugins
-  class Nmap
+  class ScanNmap
     include Cinch::Plugin
 
     match /nmap (.*)/
